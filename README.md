@@ -1,7 +1,7 @@
 # This was just a really basic project for me to learn/play with Django a bit. Finished now.
 
 
-## Task Tracker -- Functionality
+## Task Tracker Functionality
 
   - Registration
   - Login/Logout
